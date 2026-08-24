@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-## 💻 Linguagens e Tecnologias <img src="https://img.shields.io/badge/Java-ED8B00?style=for-thebadge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-thebadge&logo=c%2B%2B&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-thebadge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-thebadge&logo=python&logoColor=white" alt="Python">
+## 💻 Linguagens que estudo: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-thebadge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-thebadge&logo=c%2B%2B&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-thebadge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-thebadge&logo=python&logoColor=white" alt="Python">
 
 ## Como me encontrar:
 <a href="https://www.linkedin.com/in/marcos-ramos-857309231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
