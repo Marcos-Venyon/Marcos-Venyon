@@ -13,6 +13,12 @@
   </tr>
 </table>
 
+<div>
+  <a href="https://github.com/Marcos-Venyon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Venyon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Venyon&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
 ## 💻 Linguagens que estudo: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-thebadge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-thebadge&logo=c%2B%2B&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-thebadge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-thebadge&logo=python&logoColor=white" alt="Python">
 
 ## Como me encontrar:
