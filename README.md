@@ -44,6 +44,6 @@
   <a href="mailto:marcosramos.2002668@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-ramos--/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/Marcos-Venyon/Marcos-Venyon/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/Marcos-Venyon/Marcos-Venyon/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
